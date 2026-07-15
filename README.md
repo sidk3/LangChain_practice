@@ -69,7 +69,6 @@ Build Retrieval-Augmented Generation pipelines, including a YouTube transcript Q
 - LangChain
 - HuggingFace Transformers
 - Sentence Transformers
-- FAISS / Chroma
 - Pydantic
 
 ---
